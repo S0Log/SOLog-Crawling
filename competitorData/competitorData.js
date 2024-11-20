@@ -5,7 +5,7 @@ import fs from 'fs';
 const filename = './competitorData/competitorData.json';
 const competitorFilename = './competitorData/competitorCompany.json';
 const companys = [
-    'A000660', 'A005930', 'A373220', 'A207940', 'A005380',
+    'A005930', 'A000660', 'A373220', 'A207940', 'A005380',
     'A005935', 'A000270', 'A068270', 'A105560', 'A035420',
     'A055550', 'A012330', 'A005490', 'A028260', 'A032830',
     'A010130', 'A051910', 'A329180', 'A138040', 'A006400',
